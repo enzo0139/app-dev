@@ -1,12 +1,16 @@
-# H1
-## H2
-### H3
-Bold	**bold text**
+# All my favorite series/movies 
+## header 2
+### Header 3
+	**Favorite series**
+1. south park
+2. the amazing world of gumball
+3. dexter
+4. mentalist
 Italic	*italicized text*
 Blockquote	> blockquote
 Ordered List	1. First item
-2. Second item
-3. Third item
+5. Second item
+6. Third item
 Unordered List	- First item
 - Second item
 - Third item

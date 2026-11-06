@@ -16,5 +16,6 @@
 - Heres the link for pirated streaming service
 
 ---
-[CineJoy](https://cinejoy.pk/).
-![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiE95DV2KqK4-Y1EhawaYIX6IzmcpKNSXTGl7g8edu2Q&s=10).
+[CineJoy](https://cinejoy.pk/)
+[click for surprise!](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiE95DV2KqK4-Y1EhawaYIX6IzmcpKNSXTGl7g8edu2Q&s=10)

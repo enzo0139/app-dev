@@ -6,11 +6,12 @@
 2. the amazing world of gumball
 3. dexter
 4. mentalist
-Italic	*italicized text*
-Blockquote	> blockquote
-Ordered List	1. First item
-5. Second item
-6. Third item
+	
+	*Favorite movies*
+Ordered List	
+1. First item
+6. Second item
+7. Third item
 Unordered List	- First item
 - Second item
 - Third item

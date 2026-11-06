@@ -7,15 +7,16 @@
 3. dexter
 4. mentalist
 	
-	*Favorite movies*
-Ordered List	
-1. First item
-6. Second item
-7. Third item
-Unordered List	- First item
+*Favorite movies*
+1. Resident evil
+2. top gun maverick
+3. Jujutsu kaisen 
+   
+Unordered List	
+- First item
 - Second item
 - Third item
-Code	`code`
-Horizontal Rule	---
-Link	[title](https://www.example.com)
-Image	![alt text](image.jpg)
+
+---
+[title](https://www.example.com)
+![alt text](image.jpg)
